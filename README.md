@@ -63,58 +63,28 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 ---
 
 <div align="center">
-  <h3>🧩 Contribution Map</h3>
-  <!-- 3D Graph (Auto Updated) -->
-  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
-<br/>
+---
 
 ## 📂 Featured Projects
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="33%" align="center">
-      <b>🎨 Brow Art</b><br>
-      <small>Design Studio Website</small><br><br>
-      <img src="https://img.shields.io/badge/HTML-orange?style=flat-square"/> 
-      <img src="https://img.shields.io/badge/CSS-blue?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/Schimidt06/Brow-art-final"><img src="https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge"/></a>
-    </td>
-    <td width="33%" align="center">
-      <b>🏢 AI Business Tour</b><br>
-      <small>AI Powered Virtual Tours</small><br><br>
-      <img src="https://img.shields.io/badge/JS-yellow?style=flat-square"/>
-      <img src="https://img.shields.io/badge/AI-red?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/Schimidt06/TourEmpresarialTesteComIA"><img src="https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge"/></a>
-    </td>
-    <td width="33%" align="center">
-      <b>🥤 Soda LP</b><br>
-      <small>Animated Landing Page</small><br><br>
-      <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Vite-purple?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/Schimidt06/LandingPageRefri"><img src="https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge"/></a>
-    </td>
-  </tr>
-</table>
-</div>
+| **Project** | **Description** | **Tech** |
+|:---:|:---|:---:|
+| **StockManager** | Complete inventory management system with dashboard. | ![C#](https://img.shields.io/badge/-C%23-239120) ![.NET](https://img.shields.io/badge/-.NET-5C2D91) |
+| **EcoTrack** | Sustainability monitoring platform for SMBs. | ![React](https://img.shields.io/badge/-React-20232A) ![Node](https://img.shields.io/badge/-Node-339933) |
+| **DevFolio** | Modern portfolio template for developers. | ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) |
 
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake.svg" alt="Snake" width="100%"/>
+</div>
 
-<a href="https://www.linkedin.com/in/jpschimidt" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-<a href="mailto:jpschimidtfuentes@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
-
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn" width="100%" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
