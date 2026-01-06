@@ -89,5 +89,9 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 </div>
 
 <div align="center">
+  <img src="https://i.giphy.com/media/l1KdbHUPeY48yKKaY/giphy.gif" alt="Mario Kart" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
