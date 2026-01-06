@@ -36,14 +36,19 @@ I am a constantly evolving player, graduated as a **Systems Development Technici
 <div align="center">
   
   ### 💻 Languages & Frameworks
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,react,html,css&perline=7&theme=tokyonight" alt="Languages and Frameworks"/>
+  
+  [![Languages & Frameworks](https://skillicons.dev/icons?i=cs,dotnet,go,js,react,html,css&perline=7&theme=tokyonight)](https://skillicons.dev)
 
   ### ☁️ Cloud, DevOps & Tools
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,linux,vite,nodejs,typescript&perline=8&theme=tokyonight" alt="Cloud and Tools"/>
+  
+  [![Cloud and Tools](https://skillicons.dev/icons?i=azure,git,github,vscode,linux,vite,nodejs,typescript&perline=8&theme=tokyonight)](https://skillicons.dev)
 
   ### 🗄️ Databases & Others
+  
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,docker,python&theme=tokyonight" alt="Databases"/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,docker,python&theme=tokyonight" alt="Databases"/>
+    </a>
     <img src="https://img.shields.io/badge/Firebird_SQL-cc0000?style=for-the-badge&logo=firebird&logoColor=white" height="40" alt="Firebird SQL"/>
   </div>
 
@@ -54,23 +59,32 @@ I am a constantly evolving player, graduated as a **Systems Development Technici
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000)](https://github.com/Schimidt06)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/Schimidt06)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Schimidt06&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000" alt="GitHub Streak" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Schimidt06&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000)](https://git.io/streak-stats)
+
 </div>
 
 ### 🏆 Detailed Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schimidt06&theme=tokyonight" width="100%" alt="Profile Details"/>
+  
+  [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schimidt06&theme=tokyonight)](https://github.com/Schimidt06)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schimidt06&theme=tokyonight" height="150" alt="Card Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schimidt06&theme=tokyonight&utcOffset=-3" height="150" alt="Productive Time"/>
+  
+  [![Card Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schimidt06&theme=tokyonight)](https://github.com/Schimidt06)
+  [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schimidt06&theme=tokyonight&utcOffset=-3)](https://github.com/Schimidt06)
+
 </div>
 
 ---
