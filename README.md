@@ -63,9 +63,7 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/metrics/github-metrics.svg" alt="Metrics" width="100%">
-  <br><br>
+  <h3>🌍 3D Contribution Graph</h3>
   <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
