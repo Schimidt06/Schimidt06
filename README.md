@@ -35,7 +35,7 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github.com/Schimidt06/Schimidt06/blob/metrics/github-metrics.svg" width="100%" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/metrics/github-metrics.svg" width="100%" alt="Metrics" />
 </div>
 
 </td>
