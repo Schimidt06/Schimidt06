@@ -94,7 +94,7 @@ I am a constantly evolving player, graduated as a **Systems Development Technici
 <!-- 3D Graph -->
 <div align="center">
   <h3>3D Contribution Map</h3>
-  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Runs daily or on push" />
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Runs daily or on push" />
 </div>
 
 <!-- Snake Animation -->
