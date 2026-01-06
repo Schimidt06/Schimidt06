@@ -19,7 +19,7 @@ jobs:
       - uses: yoshi3891/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Schimidt06
       - name: Commit & Push
         uses: crazy-max/ghaction-github-pages@v3
         with:
