@@ -9,8 +9,6 @@
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schimidt06&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="schimidt06" /></a>
 </div>
 
 <br/>
