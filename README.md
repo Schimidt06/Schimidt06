@@ -35,9 +35,9 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" width="100%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=transparent" height="150" alt="Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Schimidt06&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000" width="100%" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Schimidt06&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=transparent" height="150" alt="Streak" />
 </div>
 
 </td>
