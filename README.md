@@ -15,6 +15,8 @@
 
 <div align="center"> 
   <em>"Turning coffee into code and ideas into reality." ☕➡️💻</em>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%23+%26+.NET+Enthusiast;React+%26+Cloud+Explorer;Always+Learning..." alt="Typing SVG" /></a>
 </div>
 
 I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Undergraduate**. I bridge the gap between robust infrastructure (IT Support background) and creative software development. Based in **Brazil**.
@@ -22,6 +24,12 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 *   💼 **Focus:** Full Stack Web Development & Cloud Computing
 *   🎯 **Current Mission:** Mastering .NET Ecosystem & AI Integration
 *   ☁️ **Certifications:** Microsoft **AI-900** & **AZ-900**
+
+---
+
+<div align="center">
+ <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" alt="Jokes Card" />
+</div>
 
 ---
 
