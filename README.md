@@ -3,20 +3,22 @@
 
   <div style="margin-top: -30px;">
     <a href="#-about-me">
-      <img src="https://img.shields.io/badge/👤_ABOUT-000000?style=for-the-badge&logoColor=white" height="28" alt="About"/>
+      <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white&logo=person" height="28" alt="About"/>
     </a>
     <a href="#-tech-stack">
-      <img src="https://img.shields.io/badge/🛠_STACK-000000?style=for-the-badge&logoColor=white" height="28" alt="Stack"/>
+      <img src="https://img.shields.io/badge/Tech_Stack-000000?style=for-the-badge&logoColor=white&logo=code" height="28" alt="Stack"/>
     </a>
     <a href="#-projects">
-      <img src="https://img.shields.io/badge/📂_PROJECTS-000000?style=for-the-badge&logoColor=white" height="28" alt="Projects"/>
+      <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=white&logo=github" height="28" alt="Projects"/>
     </a>
     <a href="https://schimidtportfolio.netlify.app">
-      <img src="https://img.shields.io/badge/🚀_PORTFOLIO-20C20E?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio"/>
     </a>
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Schimidt06&theme=gitdimmed&no-bg=true&margin-w=15&row=1" alt="Trophies" />
 </div>
 
 <br/>
