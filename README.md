@@ -8,13 +8,15 @@
 
 <br />
 
-```yaml
-# SYSTEM_STATUS_LOG
-user: "Jp Schimidt"
-role: "Full Stack Developer"
-location: "Brazil"
-current_mission: "Mastering .NET Ecosystem & AI"
-status: "Online & Compiling..."
+```text
+      _.---._    user@Schimidt06
+    .'       '.  ---------------
+    |  [===]  |  OS: Cyberpunk Windows 11
+    |         |  Host: GitHub Mainframe
+    |         |  Kernel: FullStack.Core.v4
+    |  [===]  |  Uptime: Lifetime
+    '.       .'  Resolution: 1920x1080
+      '-----'    Shell: ZSH (Zorrer "Schimidt" Hacker)
 ```
 
 <br />
@@ -90,5 +92,5 @@ status: "Online & Compiling..."
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=END_OF_TRANSMISSION;SYSTEM_HALTED..." alt="EOF" />
 </div>
