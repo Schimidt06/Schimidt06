@@ -66,11 +66,17 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 
 ## 📂 Featured Projects
 
-| **Project** | **Description** | **Tech** |
-|:---:|:---|:---:|
-| **StockManager** | Complete inventory management system with dashboard. | ![C#](https://img.shields.io/badge/-C%23-239120) ![.NET](https://img.shields.io/badge/-.NET-5C2D91) |
-| **EcoTrack** | Sustainability monitoring platform for SMBs. | ![React](https://img.shields.io/badge/-React-20232A) ![Node](https://img.shields.io/badge/-Node-339933) |
-| **DevFolio** | Modern portfolio template for developers. | ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) |
+<div align="center">
+  <a href="https://github.com/Schimidt06/StockManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=StockManager&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Schimidt06/EcoTrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=EcoTrack&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Schimidt06/DevFolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=DevFolio&theme=tokyonight" />
+  </a>
+</div>
 
 <br/>
 
