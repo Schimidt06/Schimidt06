@@ -46,7 +46,11 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,go,react,vite,html,css,sql,mysql,mongodb,azure,docker,linux,git&theme=dark" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,go&theme=dark" alt="Languages" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="Frontend" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb,azure,docker,linux,git&theme=dark" alt="Infrastructure" />
     </a>
   </p>
 </div>
