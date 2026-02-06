@@ -40,12 +40,12 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <a href="https://github.com/Schimidt06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Schimidt06 Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+  </div>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schimidt06&theme=tokyonight" alt="Schimidt06" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Schimidt06&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
