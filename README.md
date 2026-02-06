@@ -41,7 +41,7 @@ I'm a **Systems Development Technician** (SENAI '24) and **Computer Science Unde
   <h3>📊 GitHub Stats</h3>
   <br>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Schimidt06 Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight" alt="Schimidt06 Stats"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
   </div>
   <br>
