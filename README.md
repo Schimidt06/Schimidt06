@@ -2,10 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jp%20Schimidt&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" width="100%" />
 
   <div style="margin-top: -30px;">
-    <a href="#-about-me"><img src="https://img.shields.io/badge/👤_ABOUT-000000?style=for-the-badge&logoColor=white" height="28" alt="About"/></a>
-    <a href="#-tech-stack"><img src="https://img.shields.io/badge/🛠_STACK-000000?style=for-the-badge&logoColor=white" height="28" alt="Stack"/></a>
-    <a href="#-projects"><img src="https://img.shields.io/badge/📂_PROJECTS-000000?style=for-the-badge&logoColor=white" height="28" alt="Projects"/></a>
-    <a href="https://schimidtportfolio.netlify.app"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-20C20E?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio"/></a>
+    <a href="#-about-me">
+      <img src="https://img.shields.io/badge/👤_ABOUT-000000?style=for-the-badge&logoColor=white" height="28" alt="About"/>
+    </a>
+    <a href="#-tech-stack">
+      <img src="https://img.shields.io/badge/🛠_STACK-000000?style=for-the-badge&logoColor=white" height="28" alt="Stack"/>
+    </a>
+    <a href="#-projects">
+      <img src="https://img.shields.io/badge/📂_PROJECTS-000000?style=for-the-badge&logoColor=white" height="28" alt="Projects"/>
+    </a>
+    <a href="https://schimidtportfolio.netlify.app">
+      <img src="https://img.shields.io/badge/🚀_PORTFOLIO-20C20E?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Portfolio"/>
+    </a>
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
