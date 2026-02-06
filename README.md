@@ -33,6 +33,15 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/joao-pedro-schimidt/">
+    <img src="https://img.shields.io/badge/UPLINK-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" height="20"/>
+  </a>
+  <a href="mailto:contato.jpschimidt@gmail.com">
+    <img src="https://img.shields.io/badge/SIGNAL-Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" height="20"/>
+  </a>
+</div>
+
 <br />
 
 <div align="center">
@@ -94,3 +103,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=END_OF_TRANSMISSION;SYSTEM_HALTED..." alt="EOF" />
 </div>
+<!-- EASTER EGG: YOU FOUND THE SYSTEM KERNEL. ?? -->
