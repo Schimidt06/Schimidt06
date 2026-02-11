@@ -79,14 +79,14 @@
 <h2 align="center">💻 ACTIVE_REPOSITORIES</h2>
 
 <div align="center">
-  <a href="https://github.com/Schimidt06/StockManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=StockManager&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+  <a href="https://github.com/Schimidt06/gin-api-rest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=gin-api-rest&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
   </a>
-  <a href="https://github.com/Schimidt06/EcoTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=EcoTrack&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+  <a href="https://github.com/Schimidt06/api-go-reset">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=api-go-reset&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
   </a>
-  <a href="https://github.com/Schimidt06/DevFolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=DevFolio&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+  <a href="https://github.com/Schimidt06/api-rest-gin-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=api-rest-gin-go&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
   </a>
 </div>
 
