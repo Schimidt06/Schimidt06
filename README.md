@@ -73,7 +73,7 @@
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <h2 align="center">💻 ACTIVE_REPOSITORIES</h2>
