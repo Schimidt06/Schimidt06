@@ -80,13 +80,13 @@
 
 <div align="center">
   <a href="https://github.com/Schimidt06/gin-api-rest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=gin-api-rest&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+    <img src="https://img.shields.io/badge/REPO-gin--api--rest-000000?style=for-the-badge&logo=github&logoColor=00ff41" />
   </a>
   <a href="https://github.com/Schimidt06/api-go-reset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=api-go-reset&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+    <img src="https://img.shields.io/badge/REPO-api--go--reset-000000?style=for-the-badge&logo=go&logoColor=00ff41" />
   </a>
   <a href="https://github.com/Schimidt06/api-rest-gin-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=api-rest-gin-go&theme=bear&bg_color=000000&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+    <img src="https://img.shields.io/badge/REPO-api--rest--gin--go-000000?style=for-the-badge&logo=go&logoColor=00ff41" />
   </a>
 </div>
 
