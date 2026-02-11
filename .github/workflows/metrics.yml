@@ -14,7 +14,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
           # Options
           user: Schimidt06
@@ -22,7 +29,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           committer_branch: metrics
-          committer_message: "Update metrics"
+          committer_message: "Update metrics [skip ci]"
           
           # Plugin: Languages
           plugin_languages: yes

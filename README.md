@@ -81,7 +81,7 @@
 <h2 align="center">📊 GITHUB_STATS</h2>
 
 <div align="center">
-  <img src="https://github.com/Schimidt06/Schimidt06/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/metrics/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <h2 align="center">💻 ACTIVE_REPOSITORIES</h2>
