@@ -21,6 +21,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+          committer_branch: metrics
+          committer_message: "Update metrics"
           
           # Plugin: Languages
           plugin_languages: yes
