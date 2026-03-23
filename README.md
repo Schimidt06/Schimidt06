@@ -95,6 +95,12 @@
 <br />
 
 <div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics Isometric View" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
