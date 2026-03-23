@@ -22,13 +22,13 @@
 <br />
 
 <div align="center">
-  <a href="#-about-me">
+  <a href="#user-about-me">
     <img src="https://img.shields.io/badge/ROOT-About_Me-000000?style=for-the-badge&logo=linux&logoColor=00ff41" height="28"/>
   </a>
-  <a href="#-tech-stack">
+  <a href="#-modules_installed-skills">
     <img src="https://img.shields.io/badge/SUDO-Skills-000000?style=for-the-badge&logo=code&logoColor=00ff41" height="28"/>
   </a>
-  <a href="#-projects">
+  <a href="#-active_repositories">
     <img src="https://img.shields.io/badge/EXEC-Projects-000000?style=for-the-badge&logo=github&logoColor=00ff41" height="28"/>
   </a>
 </div>
@@ -48,7 +48,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<h2 align="center">⚡ MODULES_INSTALLED (Skills)</h2>
+<h2 align="center" id="user-about-me">👤 USER: ABOUT ME</h2>
+
+<div align="center">
+  <p>💻 <b>Log Entry //:</b> Dev Júnior com experiência em atendimento que busca sempre novas formas de inovar e ajudar na resolução de problemas. Estudante de Ciência da Computação apaixonado por integração de sistemas, Cloud e IA. Sempre pronto para compilar novas ideias em realidade.</p>
+</div>
+
+<br />
+
+<h2 align="center" id="-modules_installed-skills">⚡ MODULES_INSTALLED (Skills)</h2>
 
 <div align="center">
   <details>
@@ -72,25 +80,32 @@
 
 <br />
 
+<h2 align="center">📊 GITHUB_TELEMETRY (Stats)</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br />
 
+<h2 align="center" id="-active_repositories">💻 ACTIVE_REPOSITORIES</h2>
 
-
-<h2 align="center">💻 ACTIVE_REPOSITORIES</h2>
-
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/Schimidt06/gin-api-rest">
-    <img src="https://img.shields.io/badge/REPO-gin--api--rest-000000?style=for-the-badge&logo=github&logoColor=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=gin-api-rest&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41" alt="gin-api-rest" />
   </a>
   <a href="https://github.com/Schimidt06/api-go-reset">
-    <img src="https://img.shields.io/badge/REPO-api--go--reset-000000?style=for-the-badge&logo=go&logoColor=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=api-go-reset&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41" alt="api-go-reset" />
   </a>
   <a href="https://github.com/Schimidt06/api-rest-gin-go">
-    <img src="https://img.shields.io/badge/REPO-api--rest--gin--go-000000?style=for-the-badge&logo=go&logoColor=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Schimidt06&repo=api-rest-gin-go&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41" alt="api-rest-gin-go" />
   </a>
 </div>
 
@@ -107,4 +122,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=END_OF_TRANSMISSION;SYSTEM_HALTED..." alt="EOF" />
 </div>
-<!-- EASTER EGG: YOU FOUND THE SYSTEM KERNEL. ?? -->
+<!-- EASTER EGG: YOU FOUND THE SYSTEM KERNEL. 👁️ -->
