@@ -80,7 +80,12 @@
 
 <br />
 
-<h2 align="center">📊 GITHUB_TELEMETRY (Stats)</h2>
+<h2 align="center">📊 GITHUB_TELEMETRY (Stats & Trophies)</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Schimidt06&theme=matrix&no-frame=false&margin-w=15" alt="Trophies" />
+</div>
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
