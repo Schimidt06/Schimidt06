@@ -78,6 +78,12 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
   <img src="github-metrics.svg" alt="GitHub Metrics Isometric View" width="100%" style="border-radius: 10px; border: 1px solid #00F0FF;" />
 </div>
 
+### ⚡ RECENT_ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ---
 
 ### 📡 CONNECTLINK
