@@ -9,7 +9,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-Brazil-00F0FF?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/STATUS-Building_the_Future-00F0FF?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/STATUS-Building_the_Future-BD00FF?style=for-the-badge&logoColor=black" />
     <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=SENSORS_DETECTED&color=00F0FF&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
@@ -20,23 +20,27 @@
 
 ```text
 [SYSTEM_ANALYSIS]: User identified as João Pedro Schimidt.
-[ACADEMIC_DATA]: Computer Science Student.
-[CORE_DRIVE]: Innovation, Scalability, and AI Systems.
+[ACADEMIC_DATA]: Computer Science Student & Tech Enthusiast.
+[CORE_DRIVE]: Innovation, Scalability, and Artificial Intelligence.
+[STATUS]: Exploring the boundaries of Full-Stack development.
 ```
 
-Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções digitais elegantes. Com foco em **integração de sistemas, Cloud e Inteligência Artificial**, busco constantemente unir a lógica rigorosa do backend com interfaces intuitivas e dinâmicas. Atualmente, estou focado em expandir meus conhecimentos em arquiteturas distribuídas e aplicações inteligentes.
+Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções digitais elegantes. Com foco em **integração de sistemas, Cloud e IA**, busco unir a lógica rigorosa do backend com interfaces intuitivas e dinâmicas. Atualmente, focado em arquiteturas distribuídas e aplicações inteligentes.
 
 ---
 
-### 🚀 FEATURED_PROJECTS (Active Modules)
+### 🚀 ACTIVE_MODULES (Top Repositories)
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AI YouTube Study Assistant](https://github.com/Schimidt06)** | Plataforma que utiliza IA para extrair transcrições e gerar resumos estruturados de vídeos. | `React` `Vite` `OpenAI` `Node.js` |
-| **[Economy Calculator](https://github.com/Schimidt06)** | Simulador interativo de economia para troca de combustíveis fósseis por elétricos. | `JavaScript` `CSS3` `Premium_UI` |
-| **[Go API Suite](https://github.com/Schimidt06/api-rest-gin-go)** | Conjunto de APIs REST de alta performance desenvolvidas com foco em escalabilidade. | `Go` `Gin` `PostgreSQL` |
+| **[Meu Amigo Jarvis](https://github.com/Schimidt06/MeuamigoJarvis)** | Assistente inteligente inspirado na ficção, focado em automação e interação. | `Python` `AI` `Automation` |
+| **[NewFit](https://github.com/Schimidt06/NewFit)** | Plataforma completa para gestão de rotinas fitness e performance física. | `React` `Node.js` `UI/UX` |
+| **[Lumina Cleaning Pros](https://github.com/Schimidt06/Lumina-Cleaning-Pros)** | Interface premium para serviços de limpeza profissional com foco em conversão. | `Next.js` `Tailwind` `Vite` |
+| **[Recadiesel](https://github.com/Schimidt06/Recadiesel)** | Sistema de gestão especializado para o setor de combustíveis e logística. | `C#` `.NET` `SQL` |
+| **[Estudos Café](https://github.com/Schimidt06/estudoscafe)** | Manager de estudos com foco em produtividade e ambiente minimalista. | `JS` `CSS` `Web` |
+| **[Jota Personal](https://github.com/Schimidt06/jotapersonal)** | Landing page de alta performance para personal trainers. | `HTML5` `CSS3` `Motion` |
 
 </div>
 
@@ -46,14 +50,14 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
 
 <div align="center">
   
-  #### **Languages & Core**
+  #### **[01] Languages & Core**
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,py&theme=dark" alt="Languages" />
 
-  #### **Frontend & UI/UX**
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind&theme=dark" alt="Frontend" />
+  #### **[02] Frontend & Interface**
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma&theme=dark" alt="Frontend" />
 
-  #### **Infrastructure & DevOps**
-  <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,mongodb,mysql,postman&theme=dark" alt="Infrastructure" />
+  #### **[03] Infrastructure & Intelligence**
+  <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,mongodb,mysql,postman,openai&theme=dark" alt="Infrastructure" />
 
 </div>
 
@@ -62,20 +66,20 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
 ### 📊 SYSTEM_TELEMETRY (Live Stats)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Schimidt06&theme=tokyonight&no-frame=false&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&border_color=BD00FF&show_icons=true&include_all_commits=true&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&border_color=BD00FF" height="180px" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&border_color=00F0FF&hide_border=true&include_all_commits=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&border_color=00F0FF&hide_border=true" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schimidt06&theme=tokyonight&background=0D1117&ring=BD00FF&fire=00F0FF&currStreakNum=ffffff" height="180px" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics Isometric View" width="100%" style="border-radius: 10px; border: 1px solid #00F0FF;" />
+  <img src="github-metrics.svg" alt="GitHub Metrics Isometric View" width="100%" style="border-radius: 10px; border: 1px solid #BD00FF;" />
 </div>
 
 ### ⚡ RECENT_ACTIVITY
@@ -83,10 +87,9 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
 ---
 
-### 📡 CONNECTLINK
+### 📡 CONNECT_LINK
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-pedro-schimidt/">
@@ -103,7 +106,7 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=EOF_TRANSMISSION;SYSTEM_SECURE;SEE_YOU_SPACE_COWBOY..." alt="EOF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=BD00FF&center=true&vCenter=true&width=435&lines=EOF_TRANSMISSION;SYSTEM_SECURE;SEE_YOU_SPACE_COWBOY..." alt="EOF" />
 </div>
 
 <!-- CREDITS: Design optimized by Antigravity AI -->
