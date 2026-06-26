@@ -55,7 +55,7 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **🌐 Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,py&theme=dark" alt="Backend" valign="middle"/> <br> **Delphi 7 / 10 / 12** |
+| **🌐 Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,py&theme=dark" alt="Backend" valign="middle"/> <br> <img src="https://img.shields.io/badge/Delphi%207%20/%2010%20/%2012-EE1F46?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" valign="middle"/> |
 | **🎨 Frontend & UI** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma&theme=dark" alt="Frontend" valign="middle"/> |
 | **☁️ Banco de Dados & Ferramentas** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git&theme=dark" alt="Ferramentas" valign="middle"/> |
 
