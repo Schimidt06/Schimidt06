@@ -77,6 +77,8 @@ Aqui estão alguns dos projetos em que venho trabalhando. Todos construídos com
 | **[⛽ Recadiesel](https://github.com/Schimidt06/Recadiesel)** | Sistema de gestão especializado para o setor de combustíveis e logística. | `C#` `.NET` `SQL` |
 | **[☕ Estudos Café](https://github.com/Schimidt06/estudoscafe)** | Manager de estudos com foco em produtividade e ambiente minimalista. | `JS` `CSS` |
 | **[🏃 Jota Personal](https://github.com/Schimidt06/jotapersonal)** | Landing page de alta performance para personal trainers e profissionais da saúde. | `HTML5` `CSS3` |
+| **[🛒 VendasDelphi](https://github.com/Schimidt06/VendasDelphi)** | Sistema completo de vendas e gestão comercial com frente de caixa. | `Delphi` `SQL` |
+| **[💳 IgaraCred](https://github.com/Schimidt06/igaracred)** | Plataforma focada em soluções de crédito e gestão financeira. | `Delphi` `SQL` |
 
 </div>
 
