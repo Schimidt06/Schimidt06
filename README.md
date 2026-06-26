@@ -35,14 +35,14 @@
 [STATUS]: Exploring the boundaries of Full-Stack development.
 ```
 
-Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções digitais elegantes. Com foco em **Integração de Sistemas, Cloud e Inteligência Artificial**, busco unir a lógica rigorosa do backend com interfaces intuitivas e dinâmicas do frontend. 
+Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções digitais elegantes. Com foco em **Integração de Sistemas e Inteligência Artificial**, busco unir a lógica rigorosa do backend com interfaces intuitivas e dinâmicas do frontend. 
 
 <div align="center">
   <table>
     <tr>
       <td align="center">🎯 <b>Foco Atual</b><br>Arquiteturas Distribuídas & IA</td>
-      <td align="center">💡 <b>Interesses</b><br>Cloud Computing, UI/UX, Performance</td>
-      <td align="center">🌱 <b>Aprendendo</b><br>Técnicas avançadas de IA & DevOps</td>
+      <td align="center">💡 <b>Interesses</b><br>UI/UX, Performance</td>
+      <td align="center">🌱 <b>Aprendendo</b><br>Técnicas avançadas de IA</td>
     </tr>
   </table>
 </div>
@@ -55,9 +55,9 @@ Olá! Sou um desenvolvedor apaixonado por transformar desafios complexos em solu
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **🌐 Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,py&theme=dark" alt="Backend" valign="middle"/> |
+| **🌐 Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,py&theme=dark" alt="Backend" valign="middle"/> <br> **Delphi 7 / 10 / 12** |
 | **🎨 Frontend & UI** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma&theme=dark" alt="Frontend" valign="middle"/> |
-| **☁️ Infra & Banco de Dados** | <img src="https://skillicons.dev/icons?i=azure,docker,linux,mongodb,mysql,postman,git&theme=dark" alt="Infra" valign="middle"/> |
+| **☁️ Banco de Dados & Ferramentas** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git&theme=dark" alt="Ferramentas" valign="middle"/> |
 
 </div>
 
