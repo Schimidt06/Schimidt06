@@ -1,22 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Schimidt&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%2C%20Delphi%20%26%20AI%20Solutions&descAlignY=62&descSize=18" width="100%" />
 
-  <a href="https://github.com/Schimidt06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Delphi+Enterprise+Developer;Modernizing+Desktop+Architectures+%26+Building+APIs;Integrating+AI+Solutions+into+Scalable+Products;Writing+clean%2C+high-performance+and+maintainable+code..." alt="Typing SVG" />
+# 👨‍💻 João Pedro Schimidt
+
+### Software Engineer · Full-Stack · Delphi Enterprise · AI Solutions
+
+<a href="https://github.com/Schimidt06">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Delphi+Enterprise+Developer;Modernizing+Desktop+Architectures+%26+Building+APIs;Integrating+AI+Solutions+into+Scalable+Products;Writing+clean%2C+high-performance+and+maintainable+code..." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-pedro-schimidt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:contato.jpschimidt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Schimidt06">
+    <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Brazil-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/joao-pedro-schimidt/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:contato.jpschimidt@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/Schimidt06">
-      <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Brazil-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
 </div>
 
 <br/>
