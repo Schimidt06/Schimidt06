@@ -1,99 +1,109 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Jo%C3%A3o%20Pedro%20Schimidt&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Schimidt&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Solutions&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Building+scalable+solutions;Crafting+elegant+interfaces;Passionate+about+clean+code;Turning+ideas+into+reality" alt="Typing SVG" />
+  <a href="https://github.com/Schimidt06">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+backend+architectures;Crafting+intuitive+and+modern+user+experiences;Integrating+smart+AI+capabilities+into+real+products;Transforming+complex+ideas+into+clean+code..." alt="Typing SVG" />
   </a>
-  
-  <br/>
-  
-  <p align="center">
-    <a href="https://github.com/Schimidt06"><img src="https://komarev.com/ghpvc/?username=Schimidt06&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/Location-Brazil-3b82f6?style=for-the-badge&logoColor=black" />
-  </p>
-  
+
   <p align="center">
     <a href="https://www.linkedin.com/in/joao-pedro-schimidt/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contato.jpschimidt@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://github.com/Schimidt06">
+      <img src="https://komarev.com/ghpvc/?username=Schimidt06&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Brazil-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## ⚡ Sobre Mim
 
-Olá! Sou um desenvolvedor **Full-Stack** apaixonado por transformar problemas complexos em soluções digitais elegantes e escaláveis. Com uma base sólida tanto no desenvolvimento **Backend** quanto em interfaces modernas no **Frontend**, busco sempre aplicar boas práticas de engenharia de software e entregar código limpo e manutenível.
-
-Minha jornada na tecnologia é movida pela constante vontade de aprender novas ferramentas, aprimorar a arquitetura de sistemas e desenvolver produtos que realmente impactem os usuários.
+Desenvolvedor apaixonado por engenharia de software, focado em construir aplicações robustas, escaláveis e com alta performance. Atuo no ciclo completo de desenvolvimento — desde a modelagem de bancos e regras de negócio no backend até interfaces modernas, responsivas e intuitivas no frontend, além da exploração contínua de integrações com Inteligência Artificial.
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🎯 <b>Foco Atual</b><br>Arquitetura de Software & Full-Stack</td>
-      <td align="center">💡 <b>Interesses</b><br>Clean Code, Performance, UI/UX</td>
-      <td align="center">🌱 <b>Aprendendo</b><br>Padrões Avançados & Inteligência Artificial</td>
+      <td width="33%" align="center">
+        🚀 <b>Especialidade</b><br>
+        Sistemas Web, Arquitetura & Integrações
+      </td>
+      <td width="33%" align="center">
+        🧠 <b>Foco Atual</b><br>
+        Soluções com IA, Escalabilidade & Cloud
+      </td>
+      <td width="33%" align="center">
+        ✨ <b>Diferencial</b><br>
+        Código Limpo, UX Fluida & Resolução de Problemas
+      </td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **🌐 Backend & APIs** | <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,py&theme=dark" alt="Backend" valign="middle"/> <img src="./delphi-icon.svg" alt="Delphi" valign="middle" height="48" /> |
-| **🎨 Frontend & UI** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma&theme=dark" alt="Frontend" valign="middle"/> |
-| **☁️ Data & Tools** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,docker&theme=dark" alt="Ferramentas" valign="middle"/> |
+### 💻 Linguagens & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,py,go,cpp&theme=dark" alt="Languages" />
+</p>
+
+### 🌐 Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,figma&theme=dark" alt="Frontend" />
+</p>
+
+### ⚙️ Backend, Dados & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,mongodb,postgres,postman,docker,git,github&theme=dark" alt="Backend & Tools" />
+</p>
 
 </div>
 
 <br/>
 
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns dos projetos em que venho trabalhando, com foco em arquitetura, usabilidade e performance.
+## 🌟 Projetos em Destaque
 
 <div align="center">
 
-| 📦 Projeto | 📝 Descrição | 💻 Tecnologias |
-| :--- | :--- | :--- |
-| **[🤖 Meu Amigo Jarvis](https://github.com/Schimidt06/MeuamigoJarvis)** | Assistente inteligente focado em automação e interação. | `Python` `AI` |
-| **[💪 NewFit](https://github.com/Schimidt06/NewFit)** | Plataforma completa para gestão de rotinas fitness e acompanhamento. | `React` `Node.js` |
-| **[✨ Lumina Cleaning](https://github.com/Schimidt06/Lumina-Cleaning-Pros)** | Interface de alta performance para serviços com foco em conversão. | `Next.js` `Tailwind` |
-| **[⛽ Recadiesel](https://github.com/Schimidt06/Recadiesel)** | Sistema de gestão especializado para o setor logístico. | `C#` `.NET` `SQL` |
-| **[☕ Estudos Café](https://github.com/Schimidt06/estudoscafe)** | Manager de estudos com ambiente minimalista para produtividade. | `JS` `CSS` |
-| **[🏃 Jota Personal](https://github.com/Schimidt06/jotapersonal)** | Landing page interativa para personal trainers e profissionais de saúde. | `HTML5` `CSS3` |
-| **[🛒 VendasDelphi](https://github.com/Schimidt06/VendasDelphi)** | Sistema completo de vendas e gestão comercial (Frente de caixa). | `Delphi` `SQL` |
-| **[💳 IgaraCred](https://github.com/Schimidt06/igaracred)** | Plataforma de soluções de crédito e controle financeiro. | `Delphi` `SQL` |
+| Projeto | Descrição | Principais Tecnologias | Repositório |
+| :--- | :--- | :--- | :---: |
+| **Meu Amigo Jarvis** | Assistente inteligente para automação de tarefas e interação por voz/texto com IA. | `Python` `AI` `Automation` | [Acessar ↗](https://github.com/Schimidt06/MeuamigoJarvis) |
+| **NewFit** | Plataforma para acompanhamento de treinos, metas físicas e gestão de rotina saudável. | `React` `Node.js` `Express` | [Acessar ↗](https://github.com/Schimidt06/NewFit) |
+| **Lumina Cleaning Pros** | Interface web moderna de alta conversão para serviços premium com design sob medida. | `Next.js` `TailwindCSS` `TypeScript` | [Acessar ↗](https://github.com/Schimidt06/Lumina-Cleaning-Pros) |
+| **Recadiesel** | Sistema de controle operacional e logístico voltado para o setor de combustíveis. | `C#` `.NET` `SQL Server` | [Acessar ↗](https://github.com/Schimidt06/Recadiesel) |
+| **Estudos Café** | Ambiente digital focado em produtividade e organização com interface minimalista. | `JavaScript` `CSS3` `UI/UX` | [Acessar ↗](https://github.com/Schimidt06/estudoscafe) |
+| **Jota Personal** | Landing page otimizada com foco em presença digital e captura de clientes para profissionais. | `HTML5` `CSS3` `SEO` | [Acessar ↗](https://github.com/Schimidt06/jotapersonal) |
+| **VendasDelphi** | ERP comercial completo com fluxo de vendas, gestão de estoque e frente de caixa. | `Delphi` `SQL` | [Acessar ↗](https://github.com/Schimidt06/VendasDelphi) |
 
 </div>
 
+<br/>
 
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Schimidt06&theme=dark&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&border=30363d" height="190px" alt="GitHub Streak" />
+  <a href="https://github.com/Schimidt06">
+    <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&count_private=true" height="175" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Schimidt06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="175" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px; border: 1px solid #30363d; margin-top: 20px;" />
+  <a href="https://github.com/Schimidt06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schimidt06&theme=tokyonight&background=0D1117&hide_border=true&ring=38BDF8&fire=818CF8&currStreakNum=ffffff&sideNums=E2E8F0&dates=94A3B8" height="170" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
@@ -105,6 +115,12 @@ Aqui estão alguns dos projetos em que venho trabalhando, com foco em arquitetur
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=100&section=footer" width="100%"/>
+  <p>💡 <i>"Transformando linhas de código em soluções de impacto."</i></p>
+  <p>Vamos construir algo incrível juntos? Conecte-se comigo no <a href="https://www.linkedin.com/in/joao-pedro-schimidt/"><b>LinkedIn</b></a> ou mande um e-mail para <a href="mailto:contato.jpschimidt@gmail.com"><b>contato.jpschimidt@gmail.com</b></a>.</p>
+  
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=80&section=footer" width="100%" />
 </div>
