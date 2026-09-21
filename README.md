@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Schimidt&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Solutions&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Schimidt&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%2C%20Delphi%20%26%20AI%20Solutions&descAlignY=62&descSize=18" width="100%" />
 
   <a href="https://github.com/Schimidt06">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+backend+architectures;Crafting+intuitive+and+modern+user+experiences;Integrating+smart+AI+capabilities+into+real+products;Transforming+complex+ideas+into+clean+code..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Delphi+Enterprise+Developer;Modernizing+Desktop+Architectures+%26+Building+APIs;Integrating+AI+Solutions+into+Scalable+Products;Writing+clean%2C+high-performance+and+maintainable+code..." alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -21,24 +21,26 @@
 
 <br/>
 
-## ⚡ Sobre Mim
+## ⚡ About Me
 
-Desenvolvedor apaixonado por engenharia de software, focado em construir aplicações robustas, escaláveis e com alta performance. Atuo no ciclo completo de desenvolvimento — desde a modelagem de bancos e regras de negócio no backend até interfaces modernas, responsivas e intuitivas no frontend, além da exploração contínua de integrações com Inteligência Artificial.
+I am a Software Engineer specialized in **Full-Stack Development**, **Delphi Enterprise Systems**, and **Artificial Intelligence Solutions**. With extensive hands-on experience in building scalable web architectures as well as mission-critical desktop and ERP solutions in **Delphi / Object Pascal**, I bridge robust low-level business logic with fluid, modern user interfaces.
+
+My background spans designing relational database schemas (SQL Server, MySQL, PostgreSQL), modernizing legacy business applications, crafting high-throughput REST APIs, and embedding AI-driven automation into daily workflows.
 
 <div align="center">
   <table>
     <tr>
       <td width="33%" align="center">
-        🚀 <b>Especialidade</b><br>
-        Sistemas Web, Arquitetura & Integrações
+        🚀 <b>Core Expertise</b><br>
+        Full-Stack Web, Delphi (VCL/FMX) & ERP Architecture
       </td>
       <td width="33%" align="center">
-        🧠 <b>Foco Atual</b><br>
-        Soluções com IA, Escalabilidade & Cloud
+        🧠 <b>Current Focus</b><br>
+        AI Integrations, Scalable Cloud Systems & Modernization
       </td>
       <td width="33%" align="center">
-        ✨ <b>Diferencial</b><br>
-        Código Limpo, UX Fluida & Resolução de Problemas
+        💎 <b>Engineering Values</b><br>
+        Clean Code, High Performance & Problem-Solving
       </td>
     </tr>
   </table>
@@ -46,55 +48,57 @@ Desenvolvedor apaixonado por engenharia de software, focado em construir aplica�
 
 <br/>
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### 💻 Linguagens & Core
+### 💻 Languages & Core
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,ts,js,py,go,cpp&theme=dark" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/Schimidt06/Schimidt06/main/delphi-icon.svg" height="48" alt="Delphi" style="vertical-align: middle; margin-left: 2px;" />
 </p>
 
-### 🌐 Frontend & UI
+### 🌐 Frontend & UI Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,figma&theme=dark" alt="Frontend" />
 </p>
 
-### ⚙️ Backend, Dados & Ferramentas
+### ⚙️ Backend, Databases & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,mongodb,postgres,postman,docker,git,github&theme=dark" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,mongodb,postman,docker,git,github&theme=dark" alt="Backend & Tools" />
 </p>
 
 </div>
 
 <br/>
 
-## 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
 <div align="center">
 
-| Projeto | Descrição | Principais Tecnologias | Repositório |
+| Project | Description | Tech Stack | Source |
 | :--- | :--- | :--- | :---: |
-| **Meu Amigo Jarvis** | Assistente inteligente para automação de tarefas e interação por voz/texto com IA. | `Python` `AI` `Automation` | [Acessar ↗](https://github.com/Schimidt06/MeuamigoJarvis) |
-| **NewFit** | Plataforma para acompanhamento de treinos, metas físicas e gestão de rotina saudável. | `React` `Node.js` `Express` | [Acessar ↗](https://github.com/Schimidt06/NewFit) |
-| **Lumina Cleaning Pros** | Interface web moderna de alta conversão para serviços premium com design sob medida. | `Next.js` `TailwindCSS` `TypeScript` | [Acessar ↗](https://github.com/Schimidt06/Lumina-Cleaning-Pros) |
-| **Recadiesel** | Sistema de controle operacional e logístico voltado para o setor de combustíveis. | `C#` `.NET` `SQL Server` | [Acessar ↗](https://github.com/Schimidt06/Recadiesel) |
-| **Estudos Café** | Ambiente digital focado em produtividade e organização com interface minimalista. | `JavaScript` `CSS3` `UI/UX` | [Acessar ↗](https://github.com/Schimidt06/estudoscafe) |
-| **Jota Personal** | Landing page otimizada com foco em presença digital e captura de clientes para profissionais. | `HTML5` `CSS3` `SEO` | [Acessar ↗](https://github.com/Schimidt06/jotapersonal) |
-| **VendasDelphi** | ERP comercial completo com fluxo de vendas, gestão de estoque e frente de caixa. | `Delphi` `SQL` | [Acessar ↗](https://github.com/Schimidt06/VendasDelphi) |
+| **[🛒 VendasDelphi](https://github.com/Schimidt06/VendasDelphi)** | Complete commercial ERP & POS system featuring inventory management, financial reporting, and point-of-sale workflow. | `Delphi` `Object Pascal` `SQL` | [View Repo ↗](https://github.com/Schimidt06/VendasDelphi) |
+| **[💳 IgaraCred](https://github.com/Schimidt06/igaracred)** | Enterprise financial platform for credit operations, contract management, and cash flow control. | `Delphi` `SQL` `Desktop` | [View Repo ↗](https://github.com/Schimidt06/igaracred) |
+| **[🤖 Meu Amigo Jarvis](https://github.com/Schimidt06/MeuamigoJarvis)** | Intelligent AI desktop assistant designed for workflow automation, voice command processing, and conversational AI. | `Python` `AI` `Automation` | [View Repo ↗](https://github.com/Schimidt06/MeuamigoJarvis) |
+| **[⛽ Recadiesel](https://github.com/Schimidt06/Recadiesel)** | Operational logistics and business management system tailored for the fuel distribution and transport sector. | `C#` `.NET` `SQL Server` | [View Repo ↗](https://github.com/Schimidt06/Recadiesel) |
+| **[💪 NewFit](https://github.com/Schimidt06/NewFit)** | Full-stack web platform for fitness routine tracking, user goals management, and physical health monitoring. | `React` `Node.js` `Express` | [View Repo ↗](https://github.com/Schimidt06/NewFit) |
+| **[✨ Lumina Cleaning Pros](https://github.com/Schimidt06/Lumina-Cleaning-Pros)** | High-conversion premium commercial website engineered with responsive UI and modern animations. | `Next.js` `TailwindCSS` `TypeScript` | [View Repo ↗](https://github.com/Schimidt06/Lumina-Cleaning-Pros) |
+| **[☕ Estudos Café](https://github.com/Schimidt06/estudoscafe)** | Minimalist productivity and study timer environment built for deep work and focus. | `JavaScript` `CSS3` `UI/UX` | [View Repo ↗](https://github.com/Schimidt06/estudoscafe) |
+| **[🏃 Jota Personal](https://github.com/Schimidt06/jotapersonal)** | Conversion-focused landing page for fitness coaches and health professionals. | `HTML5` `CSS3` `SEO` | [View Repo ↗](https://github.com/Schimidt06/jotapersonal) |
 
 </div>
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Schimidt06">
-    <img src="https://github-readme-stats.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&count_private=true" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Schimidt06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&count_private=true" height="175" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Schimidt06">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Schimidt06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="175" alt="Top Languages" />
   </a>
 </div>
 
@@ -102,13 +106,13 @@ Desenvolvedor apaixonado por engenharia de software, focado em construir aplica�
 
 <div align="center">
   <a href="https://github.com/Schimidt06">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schimidt06&theme=tokyonight&background=0D1117&hide_border=true&ring=38BDF8&fire=818CF8&currStreakNum=ffffff&sideNums=E2E8F0&dates=94A3B8" height="170" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Schimidt06&theme=tokyonight&background=0D1117&hide_border=true&ring=38BDF8&fire=818CF8&currStreakNum=ffffff&sideNums=E2E8F0&dates=94A3B8" height="170" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
-### ⚡ Atividades Recentes
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -118,9 +122,9 @@ Desenvolvedor apaixonado por engenharia de software, focado em construir aplica�
 ---
 
 <div align="center">
-  <p>💡 <i>"Transformando linhas de código em soluções de impacto."</i></p>
-  <p>Vamos construir algo incrível juntos? Conecte-se comigo no <a href="https://www.linkedin.com/in/joao-pedro-schimidt/"><b>LinkedIn</b></a> ou mande um e-mail para <a href="mailto:contato.jpschimidt@gmail.com"><b>contato.jpschimidt@gmail.com</b></a>.</p>
+  <p>💡 <i>"Turning complex challenges into elegant, high-impact software solutions."</i></p>
+  <p>Interested in collaborating or discussing technical projects? Reach out via <a href="https://www.linkedin.com/in/joao-pedro-schimidt/"><b>LinkedIn</b></a> or drop an email at <a href="mailto:contato.jpschimidt@gmail.com"><b>contato.jpschimidt@gmail.com</b></a>.</p>
   
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:38bdf8&height=80&section=footer" width="100%" />
 </div>
